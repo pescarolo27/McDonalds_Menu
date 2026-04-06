@@ -1,3 +1,5 @@
+# McDonalds' Menu Analysis (Python)
+
 **Background:** McDonalds is an American-based, international fast-food chain that has served meals & snacks to customers since the 1940's. Over time, their menu has grown to include a large variety of foods including burgers, beverages, breakfast foods, chicken, fish, coffee, salads, desserts, & more. They are one of the most well-known food chains in the world. 
 In the mid-1990's, the United States Food & Drug Administration (FDA) passed into the law the requirement for food packages to contain detailed information about a food item's nutrients, serving size, calories, & such. Consequentially, McDonalds' has provided various nutritional facts on their menus for each of their food items that they offer such as calories, carbohydrates, sodium, fat, etc. 
 Such information can be explored to understand what McDonalds items are made of & how healthy they might be.
