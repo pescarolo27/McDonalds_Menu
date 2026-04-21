@@ -10,6 +10,4 @@ Such information can be explored to understand what McDonalds items are made of 
 3) Inspect the typical value of each nutrient per category in the McDonalds menu.
 4) Construct a daily meal plan that doesn't exceed the recommended daily nutritional values; i.e. breakfast, lunch, & dinner. Include at least eight unique food items. Assume that the daily nutritional values are for a 2,000 calorie (daily) diet.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project.
+This project was done in September, 2025. Machine learning was not applied in this project.
