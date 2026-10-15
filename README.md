@@ -39,7 +39,7 @@ Next, nutrients were broken down across the nine food categories in the McDonald
 
 Of the 14 nutrients that were examined, some categories consistently have some of the largest nutritional abundances.
 - McDonalds Smoothies & Shakes & Beef & Pork items each have the highest typical quantities across four of the 14 nutrients. Moreover, Chicken & Fish as well as Breakfast items are also fairly rich in terms of nutritional abundance.
-- Conversely, McDonalds Beverages are usually among the least fulfilling of the nine categories across most of these nutrients (11 of 14). Snacks & Sides & Desserts items are also typically less sufficient in supplying high amounts of nutrients across these food categories.
+- Conversely, McDonalds Beverages are usually among the least fulfilling of the nine categories across most of these nutrients (11 of 14). Snacks & Sides & Desserts items are also typically less sufficient in supplying adequate amounts of nutrients.
 
 When assessing how extreme food categories typically were from McDonalds across these nutrients, there were two instances in which a category exceeded the daily recommendation of a nutrient. More specifically, Salads typically exceeded the recommended amount of vitamin A (165%) that should be consumed in a day, & Smoothies & Shakes (75 g) typically exceeded the recommended amount of sugars (50 g). Moreover, multiple categories also typically contained fairly heavy abundances of various nutrients particularly saturated fat, sodium, & protein. On the other hand, there were a few nutrients in which many food categories typically fail to provide adequate amounts specifically dietary fiber, vitamin A, vitamin C, & iron.
 
